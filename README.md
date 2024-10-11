@@ -1,16 +1,36 @@
-## Hi there 👋
+# Welcome to My GitHub! 👋
+Hi there! I'm **Kyryl**, a beginner game developer passionate about creating interactive experiences in **C#**, **C++**, and **Python**. I’m diving into game development with engines like **Unity** and learning new technologies every day!
 
-<!--
-**Kiroshi-k/Kiroshi-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anime waving girl](https://media1.tenor.com/m/vNapCUP0d3oAAAAC/pjsk-pjsk-anime.gif)
 
-Here are some ideas to get you started:
+### 🚀 Technologies I work with:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/python.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/git.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 I’m currently learning:
+- Game development basics
+- Development tools
+- Shaders and visual effects
+- Advanced game mechanics
+
+### 🔭 Projects I'm working on:
+- Building a 2D game using **Unity**
+- A quest called "National Aviation University" 😢
+
+---
+
+### 🐍 Snake:
+
+<img src="https://raw.githubusercontent.com/Kiroshi-k/Kiroshi-k/output/snake.svg" alt="Snake animation" /> 
+
+
+---
+
+
+### 💬 For me, game development is something interesting where everyone can be the creator of their own story. At the moment I don't have any open repositories with moments of any games. I just made a cool readme profile file :)
