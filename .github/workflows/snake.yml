@@ -24,8 +24,6 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: "Kiroshi-k"
-          outputs: |
-            github-contribution-grid-snake.svg
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: Push github-contribution-grid-snake.svg to the output branch
