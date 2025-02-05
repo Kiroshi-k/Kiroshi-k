@@ -21,7 +21,7 @@ Hi there! I'm **Kyryl**, a beginner game developer passionate about creating int
 
 ### 🔭 Projects I'm working on:
 - Building a 2D game using **Unity**
-- A quest called "National Aviation University" 😢
+- A quest called "Kyiv Aviation Institute" 😢
 
 ---
 
@@ -33,4 +33,4 @@ Hi there! I'm **Kyryl**, a beginner game developer passionate about creating int
 ---
 
 
-### 💬 For me, game development is something interesting where everyone can be the creator of their own story. At the moment I don't have any open repositories with moments of any games. I just made a cool readme profile file :)
+### 💬 For me, game development is something interesting where everyone can be the creator of their own story. At the moment I don't have any open repositories with moments of any games.
